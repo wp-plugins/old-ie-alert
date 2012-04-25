@@ -28,6 +28,7 @@ Deactivate the plugin, delete if desired.
 = 0.5 =
 
 * Cleaned up code.
+* Fixed typo.
 
 = 0.4 =
 
