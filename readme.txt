@@ -1,4 +1,4 @@
-=== OLD IE Alaert ===
+=== OLD IE Alert ===
 Contributors: mikeyott
 Tags: ie6, ie7, old, browser, internet, explorer
 Requires at least: 3.3.2
