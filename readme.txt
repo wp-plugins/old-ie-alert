@@ -1,6 +1,6 @@
 === Old IE Alert ===
 Contributors: mikeyott
-Tags: ie6, ie7, old, browser, internet, explorer
+Tags: ie6, ie7, old, browser, internet, explorer, nag
 Requires at least: 3.3.2
 Tested up to: 3.3.2
 Stable tag: trunk
