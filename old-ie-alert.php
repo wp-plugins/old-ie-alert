@@ -29,6 +29,7 @@ function oiea_foot() {
 
 $content_footer = '
 <!--[if lte IE 7]>
+<!--/ Start Old IE Alert - by Michael Ott /-->
 <div id="oiea">
 	<p>
     	<strong>Oh my! What\'s this about?</strong>
@@ -41,6 +42,7 @@ $content_footer = '
         <li title="Internet Explorer" class="ie"><a href="http://www.microsoft.com/Windows/internet-explorer/">Internet Explorer</a></li>
     </ul>
 </div>
+<!--/ End Old IE Alert /-->
 <![endif]-->
 '; 
 
