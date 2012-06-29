@@ -25,6 +25,10 @@ Deactivate the plugin, delete if desired.
 
 == Changelog ==
 
+= 0.6 =
+
+* Replaced deprecated function.
+
 = 0.5 =
 
 * Cleaned up code.
