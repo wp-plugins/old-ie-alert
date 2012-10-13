@@ -25,6 +25,11 @@ Deactivate the plugin, delete if desired.
 
 == Changelog ==
 
+= 0.7 =
+
+* Removed unused variable.
+* Changed support URL.
+
 = 0.6 =
 
 * Replaced deprecated function.

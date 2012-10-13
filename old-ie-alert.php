@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Old IE Alert
-Plugin URI: http://michaelott.id.au
+Plugin URI: http://www.thatwebguyblog.com/post/alert-for-ie7-and-lower-with-this-wordpress-plugin/
 Description: Display an upgrade nag on IE7 and lower.
 Author: Michael Ott
-Version: 0.6
+Version: 0.7
 Author URI: http://www.thatwebguyblog.com
 */
 
@@ -14,7 +14,7 @@ function oiea_head() {
 
 $content_head = '
 <!--[if lte IE 7]>
-<link rel="stylesheet" href="' . get_option('home') . "/" . $siteurl . 'wp-content/plugins/' . basename(dirname(__FILE__)) . '/css/oiea.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="' . get_option('home') . '/wp-content/plugins/' . basename(dirname(__FILE__)) . '/css/oiea.css" type="text/css" media="screen" />
 <![endif]-->
 '; 
 
